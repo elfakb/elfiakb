@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">A Computer Engineering Student from Turkey</h3>
 
-- 🌱 I’m currently learning **Date Analystics**
-
-- 📫 How to reach me **eelifakbas.11@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
